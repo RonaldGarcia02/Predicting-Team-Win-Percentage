@@ -14,6 +14,7 @@ The dataset includes team-level statistics from MLB seasons (2015–2024), featu
 - **Fan Engagement**: Total & Average Attendance  
 - **Performance Stats**: Run Differential, Hits, Walks, Stolen Bases, Strikeouts, Batting Average, On-Base %, Slugging %  
 - **Outcome**: Win Percentage (`W-L Record`)  
+https://www.kaggle.com/datasets/elliottjamessaam/payroll-and-performance-stats-mlb-2010-2024
 
 ---
 
